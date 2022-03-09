@@ -2,7 +2,7 @@
 let copyright = document.getElementById("footer");
 let d = new Date();
 let y = d.getFullYear();
-copyright.innerHTML += `Copyright &#169; ${y} Chandra Sekhar Gonuguntla`;
+copyright.innerHTML += `Copyright &#169; ${y} Firstname Lastname`;
 
 // Filter portfolio by buttons
 let filterBtns = document.getElementById("portfolio-buttons");
